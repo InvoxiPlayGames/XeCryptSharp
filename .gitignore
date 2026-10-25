@@ -1,0 +1,11 @@
+.DS_Store
+bin/
+obj/
+Debug/
+Release/
+*.dll
+*.exe
+*.pdb
+*.bin
+*.cer
+*.pem
